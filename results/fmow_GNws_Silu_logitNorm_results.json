@@ -1,0 +1,26 @@
+{
+    "id_val": {
+        "acc_worst_region_std": 0.008480766460003186,
+        "acc_worst_region": 0.5766894419987997,
+        "acc_avg_std": 0.009020510832315178,
+        "acc_avg": 0.593166728814443
+    },
+    "id_test": {
+        "acc_worst_region_std": 0.005285678085498547,
+        "acc_worst_region": 0.5557281573613485,
+        "acc_avg_std": 0.0016021466811844158,
+        "acc_avg": 0.5685235857963562
+    },
+    "val": {
+        "acc_worst_region_std": 0.008768655269061853,
+        "acc_worst_region": 0.5349449515342712,
+        "acc_avg_std": 0.005212754708627739,
+        "acc_avg": 0.5829776525497437
+    },
+    "test": {
+        "acc_worst_region_std": 0.01531648906469966,
+        "acc_worst_region": 0.3838539719581604,
+        "acc_avg_std": 0.0015773102930924552,
+        "acc_avg": 0.5175502300262451
+    }
+}

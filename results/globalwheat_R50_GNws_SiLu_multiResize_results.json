@@ -1,0 +1,18 @@
+{
+    "val": {
+        "detection_acc_avg_dom_std": 0.002230984178967589,
+        "detection_acc_avg_dom": 0.7146761839588484
+    },
+    "test": {
+        "detection_acc_avg_dom_std": 0.004146873229327202,
+        "detection_acc_avg_dom": 0.5386916415558921
+    },
+    "id_val": {
+        "detection_acc_avg_dom_std": 0.00161908749685736,
+        "detection_acc_avg_dom": 0.777407138435929
+    },
+    "id_test": {
+        "detection_acc_avg_dom_std": 0.003079848736843685,
+        "detection_acc_avg_dom": 0.7652333632663444
+    }
+}
